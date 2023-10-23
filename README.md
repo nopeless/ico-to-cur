@@ -27,3 +27,6 @@ If you have cargo, just clone repository and cargo run
 
 ## No cargo
 
+[![download link](https://i.imgflip.com/83kkdm.jpg)](https://github.com/nopeless/ico-to-cur/releases)
+
+^ click for download link
